@@ -10,6 +10,7 @@ namespace MyFourthRepo
     {
         static void Main(string[] args)
         {
+            DateTime today = DateTime.Now;
         }
     }
 }
